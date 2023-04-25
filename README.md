@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Christina-Lydia
+- 👋 Hi, I’m Christina De Tchoffo
 - 👀 I’m interested in Data Analytics, Process Optimisation and Supply Chain
 - 🌱 I’m currently learning In depth Data analytics technical skills
 - 💞️ I’m looking to collaborate on Supply chain optimisation projects and buisness analysis
